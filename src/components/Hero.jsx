@@ -57,4 +57,3 @@ export default function Hero({ onDetails, watchlist, toggleWatchlist }) {
   );
 }
 
-

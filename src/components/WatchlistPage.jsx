@@ -26,4 +26,3 @@ export default function WatchlistPage({ onDetails, watchlist, toggleWatchlist, s
   );
 }
 
-

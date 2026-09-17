@@ -28,4 +28,3 @@ export default function MovieCard({ movie, onDetails, watchlist, toggleWatchlist
   );
 }
 
-

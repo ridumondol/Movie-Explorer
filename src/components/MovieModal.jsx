@@ -51,4 +51,3 @@ export default function MovieModal({ movie, onClose, watchlist, toggleWatchlist 
   );
 }
 
-
