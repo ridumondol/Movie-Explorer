@@ -9,6 +9,9 @@ Visit CineJourney : https://cine-journey.netlify.app/
 ## 📦 Repository
 
 GitHub Repository : https://github.com/ridumondol/Movie-Explorer
+## 📸 Project Screenshot
+
+![Movie-Explorer](./cine.png)
 
 ## ✨ Features
 
